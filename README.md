@@ -4,6 +4,7 @@ The Repository contains all the Projects that can be excuted on the console usin
 List of Projects will be updated in this Read Me file Soon.
 1) ATM Machine
 2) Currency Converter
+3) Number Game
 
 Thanks for Reading 
 
