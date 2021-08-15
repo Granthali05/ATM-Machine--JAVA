@@ -6,6 +6,8 @@ List of Projects will be updated in this Read Me file Soon.
 2) Currency Converter
 3) Number Game
 4) Java Launcher
+5) CGPA-Percentage Converter
+
 
 Thanks for Reading 
 
